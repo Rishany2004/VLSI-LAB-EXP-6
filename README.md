@@ -185,6 +185,15 @@ Running the simulation:
 
 
 
+
+
+
+
+
+
+
+
+
 CMOS NAND GATE
 
 NAND SCHmatic
