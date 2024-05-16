@@ -50,9 +50,12 @@ Adding components to schematic:
 
 LIBRARY NAME	CELL NAME
 
-gpdk045	PMOS
+gpdk045	        PMOS
 
-gpdk045	NMOS
+gpdk045	        NMOS
+
+
+
 
 4.This is a table of components for building the inverter schematic.
 
@@ -66,7 +69,9 @@ Adding pins to schematic:
 1.Click the pin fixed menu icon in the schematic window. You can execute create pin or press ‘p’.
 
 2.Add pin form appears. Type the following in the ADD pin form in the next order leaving space between the pin.
-PIN NAMES	DIRECTION Vin,Vdd,Vss	Input Vout	Output
+PIN NAMES	DIRECTION
+Vin,Vdd,Vss	Input
+Vout	        Output
 
 3.Select cancel and then the schematic window enter window file or press the f bind key.
 
@@ -80,9 +85,10 @@ Adding wires to schematic:
 
 4.Complete the wiring as shown in the figure and when done wiring press ECS key in the schematic window to cancel wiring.
 
+
 Saving the design:
 
-	Click the check and save icon in the schematic editor window observe CIW output for any errors.
+Click the check and save icon in the schematic editor window observe CIW output for any errors.
 
 BUILDING THE INVERTER TEST DESIGN:
 
@@ -96,12 +102,12 @@ Creating the inverter test cell view:
 
 4.Using the components list and properties/ comments in this table build the inverter test schematic.
 ~~~
-LIBRARY NAME	CELL VIEW NAME	PROPERTIES/COMMENTS
-My design lib	Inverter	Symbol
-Analog lib	Vpulse	Voltage1 = 0, Voltage2 = 1.8, delay Time = 0,
+LIBRARY NAME	  CELL VIEW NAME  	PROPERTIES/COMMENTS
+My design lib	   Inverter	        Symbol
+Analog lib	   Vpulse	        Voltage1 = 0, Voltage2 = 1.8, delay Time = 0,
 Rise time=Fall time=1ns
 Period=20ns
-Analog lib	Vdc, gnd	Vdc = 1.8v
+Analog lib	   Vdc, gnd	        Vdc = 1.8v
 ~~~
 
 5.Add the above components using create – instance or by pressing I.
@@ -197,11 +203,21 @@ NAND SIMULATION WITH SPECTRA
 ![WPS Photos8](https://github.com/CalebSamraj14/VLSI-LAB-EXP-6/assets/163808923/45dfa853-6889-4368-b2cf-5374378a6140)
 
 
+
+
+
+
+
 CMOS NOR GATE
 
 NOR SCHEMATIC
 
 ![WPS Photos(9)](https://github.com/CalebSamraj14/VLSI-LAB-EXP-6/assets/163808923/2169a189-aeb8-43e2-9c03-4cb13912a342)
+
+
+
+
+
 
 NOR TEST CELL VIEW
 
@@ -212,25 +228,7 @@ NOR SIMULATION WITH SPECTRA
 
 ![WPS Photos(11)](https://github.com/CalebSamraj14/VLSI-LAB-EXP-6/assets/163808923/ca0d0123-8544-4693-9377-1702e4058300)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 RESULT:
 
  Thus the design and simulation of the CMOS inverter and observe the DC and transient responses using cadens is done.
-
-
-
 
