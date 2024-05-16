@@ -81,7 +81,6 @@ Adding wires to schematic:
 
 4.Complete the wiring as shown in the figure and when done wiring press ECS key in the schematic window to cancel wiring.
 
-
 Saving the design:
 
 Click the check and save icon in the schematic editor window observe CIW output for any errors.
@@ -176,7 +175,13 @@ Running the simulation:
 
 ![WPS Photos3](https://github.com/CalebSamraj14/VLSI-LAB-EXP-6/assets/163808923/94933613-5e83-4c98-85c7-3c61a462ad73)
 
-CMOS NAND GATE
+
+
+
+
+
+
+ CMOS NAND GATE
 
 NAND SCHmatic
 
@@ -187,9 +192,7 @@ NAND TEST CELL VIEW
 
 ![WPS Photos7](https://github.com/CalebSamraj14/VLSI-LAB-EXP-6/assets/163808923/f46287ff-b86f-4b19-a593-9f85c4709baf)
 
-
 NAND SIMULATION WITH SPECTRA
-
 
 ![WPS Photos8](https://github.com/CalebSamraj14/VLSI-LAB-EXP-6/assets/163808923/45dfa853-6889-4368-b2cf-5374378a6140)
 
@@ -203,26 +206,9 @@ NOR TEST CELL VIEW
 
 ![WPS Photos(10)](https://github.com/CalebSamraj14/VLSI-LAB-EXP-6/assets/163808923/ab9d82cf-6b2b-47b8-af58-f46a9e71f6d3)
 
-
 NOR SIMULATION WITH SPECTRA
 
 ![WPS Photos(11)](https://github.com/CalebSamraj14/VLSI-LAB-EXP-6/assets/163808923/ca0d0123-8544-4693-9377-1702e4058300)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 RESULT:
 
