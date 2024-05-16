@@ -194,6 +194,19 @@ Running the simulation:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 CMOS NAND GATE
 
 NAND SCHmatic
@@ -217,11 +230,29 @@ NAND SIMULATION WITH SPECTRA
 
 
 
+
+
+
+
+
+
+
+
 CMOS NOR GATE
 
 NOR SCHEMATIC
 
 ![WPS Photos(9)](https://github.com/CalebSamraj14/VLSI-LAB-EXP-6/assets/163808923/2169a189-aeb8-43e2-9c03-4cb13912a342)
+
+
+
+
+
+
+
+
+
+
 
 
 
