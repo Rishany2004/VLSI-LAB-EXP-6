@@ -228,6 +228,7 @@ NOR SCHEMATIC
 
 
 
+
 NOR TEST CELL VIEW
 
 ![WPS Photos(10)](https://github.com/CalebSamraj14/VLSI-LAB-EXP-6/assets/163808923/ab9d82cf-6b2b-47b8-af58-f46a9e71f6d3)
@@ -236,6 +237,22 @@ NOR TEST CELL VIEW
 NOR SIMULATION WITH SPECTRA
 
 ![WPS Photos(11)](https://github.com/CalebSamraj14/VLSI-LAB-EXP-6/assets/163808923/ca0d0123-8544-4693-9377-1702e4058300)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 RESULT:
 
