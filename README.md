@@ -54,15 +54,11 @@ gpdk045	        PMOS
 
 gpdk045	        NMOS
 
-
-
-
 4.This is a table of components for building the inverter schematic.
 
 5.After entering components, click cancel in the add instance form or press ESC with your cursor in the schematic window.
 
 ![readme](https://github.com/CalebSamraj14/VLSI-LAB-EXP-6/assets/163808923/102887c7-1ddf-4ebc-9337-537f57af75ff)
-
 
 Adding pins to schematic:
 
@@ -120,7 +116,6 @@ Analog lib	   Vdc, gnd	        Vdc = 1.8v
 
 ![WPS Photos(1)](https://github.com/CalebSamraj14/VLSI-LAB-EXP-6/assets/163808923/c2d18432-64a1-4b50-98e0-09d75461f33e)
 
-
 ANALOG SIMULATION WITH SPECTRA:
 
 Starting the simulation environment:
@@ -176,40 +171,10 @@ Running the simulation:
 
 2.When the simulation finishes the transient and DC plots automatically will be popped up along with netlist.
 
-
-
 ![WPS Photos(1)](https://github.com/CalebSamraj14/VLSI-LAB-EXP-6/assets/163808923/d2b0da9d-e05e-4387-8ebd-5e599458b297)
 
 
 ![WPS Photos3](https://github.com/CalebSamraj14/VLSI-LAB-EXP-6/assets/163808923/94933613-5e83-4c98-85c7-3c61a462ad73)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 CMOS NAND GATE
 
@@ -228,41 +193,11 @@ NAND SIMULATION WITH SPECTRA
 
 ![WPS Photos8](https://github.com/CalebSamraj14/VLSI-LAB-EXP-6/assets/163808923/45dfa853-6889-4368-b2cf-5374378a6140)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 CMOS NOR GATE
 
 NOR SCHEMATIC
 
 ![WPS Photos(9)](https://github.com/CalebSamraj14/VLSI-LAB-EXP-6/assets/163808923/2169a189-aeb8-43e2-9c03-4cb13912a342)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 NOR TEST CELL VIEW
 
